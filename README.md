@@ -382,41 +382,7 @@ Your browser will open automatically at `http://localhost:8501`.
 
 ---
 
-## Offline Mode
 
-Toggle **"Offline / Field Mode"** in the sidebar to disconnect from all cloud services. In this mode:
-
-- Gemini AI analysis is replaced by local keyword heuristics
-- Maps are disabled and replaced with a plain grid
-- Geolocation returns a default coordinate
-- All evidence logging still works locally
-- Audio analysis falls back to buffer-based keyword detection
-
-This is useful for operating in areas with no internet or in sensitive environments where cloud data transmission is not allowed.
-
----
-
-## FAQ
-
-**Q: The app says "Failed to load YOLO model". What do I do?**  
-Make sure `yolo26n_finetuned.pt` is in the root folder. Re-download it if it's missing or corrupted.
-
-**Q: Gemini is not responding.**  
-Check that your `GEMINI_API_KEY_2` in the `.env` file is correct and active. You can also toggle Offline Mode to bypass it.
-
-**Q: The webcam feed is black or not opening.**  
-Ensure no other app is using the camera. For IP cameras, make sure your phone and computer are on the same Wi-Fi network and the URL ends with `/video`.
-
-**Q: Where is the evidence stored?**  
-All evidence is saved in a JSON file in the project root (e.g., `1771178173_evidence_chain.json`). Each session gets its own file.
-
-**Q: Can I use this without Telegram?**  
-Yes. Telegram alerts are optional. If `TELEGRAM_BOT_TOKEN` is not set, alerts are simply skipped.
-
-**Q: Is this safe to deploy publicly?**  
-This project is intended for research, demos, and educational use. Do not expose it on a public server without adding proper authentication and access controls.
-
----
 
 ## License
 
