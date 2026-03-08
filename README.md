@@ -1,4 +1,4 @@
-# 🚨 GuardianAI: Omniscient Threat Detection Platform
+# 🚨 GuardianAI : Omniscient Threat Detection Platform
 ### *Built for India Innovates Hackathon 2026*
 
 <div align="center">
@@ -109,8 +109,8 @@ Post-hackathon, we aim to integrate GuardianAI directly with state-level drones 
 ## 👥 The Team
 
 * **Palash Singh Tomar** — [LinkedIn](https://www.linkedin.com/in/palash-singh-tomar-14442a386/)
+* **Parul Vyas** — [LinkedIn](https://www.linkedin.com/in/parul-vyas-313839362/)
 * **Namrata Tiwari** — [LinkedIn](https://www.linkedin.com/in/namrata-tiwari-163942370/)
 * **Mayuri Pandey** — [LinkedIn](https://www.linkedin.com/in/mayuri-pandey-75598835a/)
-* **Parul Vyas** — [LinkedIn](https://www.linkedin.com/in/parul-vyas-313839362/)
 * **Mohammed Arhaan** — [LinkedIn](https://www.linkedin.com/in/mohammed-arhaan-78986627b/)
 * **Payal Verma** — [LinkedIn](https://www.linkedin.com/in/payal-verma-2692a5363/)
